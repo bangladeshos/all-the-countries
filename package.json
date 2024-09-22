@@ -1,0 +1,21 @@
+{
+  "name": "all-the-countries",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "dev": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-plausible-analytics": "^1.2.0",
+    "js-yaml": "^3.14.0",
+    "sass": "^1.54.0",
+    "twemoji": "^13.0.1"
+  },
+  "devDependencies": {
+    "@architect/sandbox": "^3.7.4",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0"
+  }
+}
